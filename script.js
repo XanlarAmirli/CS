@@ -41,7 +41,7 @@ console.log(typeof salary);
  
  
 
-if (test === 'Sabir' || test === 'Mehman') { 
+if (test2 === 'Sabir' || test2 === 'Mehman') { 
          console.log('1');
 } else {
       console.log('not found');
